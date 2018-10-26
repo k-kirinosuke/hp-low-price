@@ -1,0 +1,7 @@
+.ui.inverted.segment, .ui.primary.inverted.segment {
+  background: radial-gradient(#ffa950, #ff0000);
+}
+
+.ui.secondary.inverted.pointing.menu {
+  border-width: 0;
+}
